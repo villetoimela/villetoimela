@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @villetoimela
 
-- 👀 I’m interested in coding and cryptocurrencies.
+- 👀 I’m interested in coding and cryptocurrencies. Im open for work atm, prefer to work in finnish.
 
 - 🌱 I’m currently learning frontend with some javascript frameworks, especially vue and react.
 
