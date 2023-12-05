@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @villetoimela! IM USING GITLAB MAINLY --> https://gitlab.com/villetoimela
+- 👋 Hi, I’m Ville Toimela
 
 <!---
 villetoimela/villetoimela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
