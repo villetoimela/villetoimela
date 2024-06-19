@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ville Toimela
+👋 Hi, I’m Ville Toimela
+
+Check out my portfolio website: <a href="villetoimela.com">villetoimela.com<a/> 🤓
 
 <!---
 villetoimela/villetoimela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
